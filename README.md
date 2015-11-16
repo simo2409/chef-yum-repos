@@ -31,6 +31,7 @@ Need help for testing following best practises, if you can help you are welcome!
 License and Authors
 -------------------
 License: MIT
+
 Authors:
 
 Simone Dall'Angelo
